@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./server/index.js",
-    "watch": "esbuild ./public/Js/index.js --bundle --outfile=./public/Js/bundle.js --watch",
-    "build": "esbuild ./public/Js/index.js --bundle --outfile=./public/Js/bundle.js"
+    "start": "nodemon ./server/index.js"
   },
   "keywords": [],
   "author": "",
