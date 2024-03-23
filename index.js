@@ -17,8 +17,8 @@ app.use(express.json());
 app.use(
   cors({
     credentials: true,
-    // origin: "http://localhost:5173",
-    origin: "https://fiveteen-studios.onrender.com",
+    origin: "http://localhost:5173",
+    // origin: "https://fiveteen-studios.onrender.com",
   })
 );
 
