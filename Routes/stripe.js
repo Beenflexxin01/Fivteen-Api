@@ -12,7 +12,6 @@ router.get("/create-checkout-session", stripeController.getCheckOutSession);
 module.exports = router;
 
 // This is your test secret API key.
-// const stripe = require('stripe')('sk_test_51Odt2FDmPNeUOkUZxCwTCRIJGYwVXFAz8UAWARZb0YxYwoZ03uu98KfbGPcj7GcR9Nwkn5Az2DRgZfZPnSsfUV7K00xU1ZdT2P');
 // const express = require('express');
 // const app = express();
 // app.use(express.static('public'));
