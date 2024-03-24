@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./server/index.js",
-    "watch": "esbuild ./server/index.js --bundle --outfile=./public/Js/bundle.js --watch",
-    "build": "esbuild ./server/index.js --bundle --outfile=./public/Js/bundle.js"
+    "build": "babel index.js -d dist"
   },
   "keywords": [],
   "author": "",
@@ -23,6 +22,9 @@
     "stripe": "^14.14.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
     "esbuild": "^0.20.2"
   }
 }
