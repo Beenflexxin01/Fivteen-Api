@@ -3,7 +3,7 @@
     "title": "FREEDOM (LIMITED EDITION)",
     "default": "FIVETEEN STUDIOS",
     "price": 42.0,
-    "image": "server/Images/f34.jpeg",
+    "image": "/server/Images/f34.jpeg",
     "description": "'Freedom' summer tee in off-whitte. With a captivating art design on the back, this tee adds a touch of creativity to your wardrobe. Embrace summer in style and ezpress your unique spirit with our 'Freedom' tee.",
     "shipPrice": "calculated at checkout",
     "size": "L, XL, 2XL",
@@ -17,10 +17,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
 
@@ -28,7 +28,7 @@
     "title": "SLPLS NIGHTS",
     "default": "FIVETEEN STUDIOS",
     "price": 25.0,
-    "image": "server/Images/f3.jpeg",
+    "image": "/server/Images/f3.jpeg",
     "description": "Freedom doesn’t come easy. This piece connects all of us and reminds us to celebrate all the people endlessly working towards their goals. Wherever you are and whoever you are, we applaud you.",
     "shipPrice": "calculated at checkout",
     "size": "M, L, XL",
@@ -42,10 +42,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
 
@@ -53,7 +53,7 @@
     "title": "FVT CLASSIC",
     "default": "FIVETEEN STUDIOS",
     "price": 28.0,
-    "image": "server/Images/f9.jpeg",
+    "image": "/server/Images/f9.jpeg",
     "description": "Flipping through your wardrobe for the perfect tee to pull your outfit together? Look no further! The Fiveteen Classic is the perfect simple design to give you that effortlessly cool look..",
     "shipPrice": "calculated at checkout",
     "size": "S, M, L, XL, 2XL",
@@ -69,10 +69,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
 
@@ -80,7 +80,7 @@
     "title": "PSE SHORTS",
     "default": "FIVETEEN STUDIOS",
     "price": 30.0,
-    "image": "server/Images/f39.jpeg",
+    "image": "/server/Images/f39.jpeg",
     "description": "XV PALMS shorts in classic white. Stay cool and stylish with these versatile and comfortable shorts, perfect for any summer occasion. Elevate your warm-weather look effortlessly with our timeless white shorts.",
     "shipPrice": "d at checkout",
     "size": " M, L, XL",
@@ -94,10 +94,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
 
@@ -105,7 +105,7 @@
     "title": "PALMS BLANC",
     "default": "FIVETEEN STUDIOS",
     "price": 38.0,
-    "image": "server/Images/f48.jpeg",
+    "image": "/server/Images/f48.jpeg",
     "description": "Our 'Palms See Everything' summer tee in a captivating off-white color. With a beautiful blend of nature and palm trees, this tee captures the essence of lush tropical landscapes. Embrace the serenity of summer in style with our exquisite tee.",
     "shipPrice": "calculated at checkout",
     "size": " M, L, XL, 2XL",
@@ -119,10 +119,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
   {
@@ -131,7 +131,7 @@
     "price": 28.0,
     "oldPrice": 37.0,
     "soldOut": "Sold Out",
-    "image": "server/Images/f40.jpeg",
+    "image": "/server/Images/f40.jpeg",
     "description": "Celebrating our origins with the Fiveteen Cities tee. We introduce our first pieces from the cities tee. we celebrate cities from all over the world with our debut collection with Lagos and London. More cities dropping too in the future.",
     "shipPrice": "calculated at checkout",
     "size": " M, L, XL, 2XL",
@@ -146,10 +146,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
   {
@@ -157,7 +157,7 @@
     "default": "FIVETEEN STUDIOS",
     "price": 30.0,
     "oldPrice": 38.0,
-    "image": "server/Images/f43.jpeg",
+    "image": "/server/Images/f43.jpeg",
     "description": "Flipping through your wardrobe for the perfect tee to pull your outfit together? Look no further! The Fiveteen Classic is the perfect simple design to give you that effortlessly cool look..",
     "shipPrice": "calculated at checkout",
     "size": "S, M, L, XL, 2XL",
@@ -172,10 +172,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
 
@@ -183,7 +183,7 @@
     "title": "XVarsity",
     "default": "FIVETEEN STUDIOS",
     "price": 80.0,
-    "image": "server/Images/f42.jpeg",
+    "image": "/server/Images/f42.jpeg",
     "description": "Varsity jacket with padded interior. Double welt pockets at hip and interior pocket. Embroidered appliqué and contrast front and back patches. Rib trim. Front snap button closure.",
     "shipPrice": "calculated at checkout",
     "size": " M, L, XL",
@@ -197,10 +197,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
 
@@ -208,7 +208,7 @@
     "title": "TERRA ORRANGE",
     "default": "FIVETEEN STUDIOS",
     "price": 38.0,
-    "image": "server/Images/f44.jpeg",
+    "image": "/server/Images/f44.jpeg",
     "description": "Nature-inspired summer tee in earthy orange. From the 'Palms See Everything' collection, this vibrant tee embodies the essence of tropical paradise. Embrace the warmth and adventure of summer in style with our stunning tee.",
     "shipPrice": "calculated at checkout",
     "size": "M, L, XL, 2XL",
@@ -222,10 +222,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f13.jpeg",
-      "server/Images/f16.jpeg",
-      "server/Images/f15.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f13.jpeg",
+      "/server/Images/f16.jpeg",
+      "/server/Images/f15.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
 
@@ -234,7 +234,7 @@
     "default": "FIVETEEN STUDIOS",
     "price": 28.0,
     "soldOut": "Sold Out",
-    "image": "server/Images/f46.jpeg",
+    "image": "/server/Images/f46.jpeg",
     "description": "XV Smiley Tote Bag, the must-have accessory for your sunny adventures! Made from high-quality materials, this lightweight tote is perfect for carrying your essentials while exuding effortless style. Featuring our brand's Iconic Smiley on top, it adds a touch of elegance and makes a statement wherever you go. Grab your Summer Tote Bag today and embrace summer in style!",
     "shipPrice": "calculated at checkout",
     "size": "35cm x 40cm",
@@ -248,17 +248,17 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f13.jpeg",
-      "server/Images/f16.jpeg",
-      "server/Images/f15.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f13.jpeg",
+      "/server/Images/f16.jpeg",
+      "/server/Images/f15.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   },
   {
     "title": "PSE SHORTS MINI",
     "default": "FIVETEEN STUDIOS",
     "price": 30.0,
-    "image": "server/Images/f47.jpeg",
+    "image": "/server/Images/f47.jpeg",
     "description": "XV PALMS MINI shorts in classic white. Stay cool and stylish with these versatile and comfortable shorts, perfect for any summer occasion. Elevate your warm-weather look effortlessly with our timeless white shorts.",
     "shipPrice": "calculated at checkout",
     "size": " M, L, XL ",
@@ -273,10 +273,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "server/Images/f1.jpeg",
-      "server/Images/f3.jpeg",
-      "server/Images/f4.jpeg",
-      "server/Images/f5.jpeg"
+      "/server/Images/f1.jpeg",
+      "/server/Images/f3.jpeg",
+      "/server/Images/f4.jpeg",
+      "/server/Images/f5.jpeg"
     ]
   }
 ]
