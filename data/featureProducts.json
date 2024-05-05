@@ -3,7 +3,7 @@
     "title": "TERRA ORRANGE",
     "default": "FIVETEEN STUDIOS",
     "price": 38.00,
-    "image": "/server/Images/f44.jpeg",
+    "image": "/Images/f44.jpeg",
     "description": "Nature-inspired summer tee in earthy orange. From the 'Palms See Everything' collection, this vibrant tee embodies the essence of tropical paradise. Embrace the warmth and adventure of summer in style with our stunning tee.",
     "shipPrice": "calculated at checkout",
     "size": "M, L, XL, 2XL",
@@ -17,10 +17,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "/server/Images/f13.jpeg",
-      "/server/Images/f16.jpeg",
-      "/server/Images/f15.jpeg",
-      "/server/Images/f5.jpeg"
+      "/Images/f13.jpeg",
+      "/Images/f16.jpeg",
+      "/Images/f15.jpeg",
+      "/Images/f5.jpeg"
     ]
   },
 
@@ -28,7 +28,7 @@
     "title": "FREEDOM (LIMITED EDITION)",
     "default": "FIVETEEN STUDIOS",
     "price": 42.00,
-    "image": "/server/Images/f34.jpeg",
+    "image": "/Images/f34.jpeg",
     "description": "'Freedom' summer tee in off-whitte. With a captivating art design on the back, this tee adds a touch of creativity to your wardrobe. Embrace summer in style and ezpress your unique spirit with our 'Freedom' tee.",
     "shipPrice": "calculated at checkout",
     "size": "L, XL, 2XL",
@@ -42,17 +42,17 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "/server/Images/f1.jpeg",
-      "/server/Images/f3.jpeg",
-      "/server/Images/f4.jpeg",
-      "/server/Images/f5.jpeg"
+      "/Images/f1.jpeg",
+      "/Images/f3.jpeg",
+      "/Images/f4.jpeg",
+      "/Images/f5.jpeg"
     ]
   },
   {
     "title": "XVarsity",
     "default": "FIVETEEN STUDIOS",
     "price": 80.00,
-    "image": "/server/Images/f42.jpeg",
+    "image": "/Images/f42.jpeg",
     "description": "Varsity jacket with padded interior. Double welt pockets at hip and interior pocket. Embroidered appliqué and contrast front and back patches. Rib trim. Front snap button closure.",
     "shipPrice": "calculated at checkout",
     "size": " M, L, XL",
@@ -66,17 +66,17 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "/server/Images/f1.jpeg",
-      "/server/Images/f3.jpeg",
-      "/server/Images/f4.jpeg",
-      "/server/Images/f5.jpeg"
+      "/Images/f1.jpeg",
+      "/Images/f3.jpeg",
+      "/Images/f4.jpeg",
+      "/Images/f5.jpeg"
     ]
   },
   {
     "title": "SAC A DOS",
     "default": "FIVETEEN STUDIOS",
     "price": 64.00,
-    "image": "/server/Images/f45.jpeg",
+    "image": "/Images/f45.jpeg",
     "description": "Loose fit hoodie sweatshirt made of dense cotton with terrycloth interior. Collar hood and long sleeves. Front pouch pocket, Rib trim, Front zip. Inner removable strap for form and function.",
     "shipPrice": "calculated at checkout",
     "size": "M, L, XL",
@@ -90,10 +90,10 @@
     "btnPay": "Pay",
     "btnPal": "Pal",
     "imageCover": [
-      "/server/Images/f13.jpeg",
-      "/server/Images/f16.jpeg",
-      "/server/Images/f15.jpeg",
-      "/server/Images/f5.jpeg"
+      "/Images/f13.jpeg",
+      "/Images/f16.jpeg",
+      "/Images/f15.jpeg",
+      "/Images/f5.jpeg"
     ]
   }
 

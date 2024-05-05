@@ -17,8 +17,8 @@ app.use(express.json());
 app.use(
   cors({
     credentials: true,
-    // origin: "http://localhost:5173",
-    origin: "https://fiveteen-studios.onrender.com",
+    origin: "http://localhost:5174",
+    // origin: "https://fiveteen-studios.onrender.com",
   })
 );
 
@@ -30,8 +30,8 @@ process.on("UncaughtException", (err) => {
   console.log("UNCAUGHT EXCEPTION... SHUTTING DOWN NOW......");
 });
 
-dotenv.config({ path: "./config.env" });
-// dotenv.config({ path: "./server/config.env" });
+// dotenv.config({ path: "./config.env" });
+dotenv.config({ path: "./server/config.env" });
 
 const DB = process.env.DATABASE.replace(
   "<password>",
