@@ -14,13 +14,13 @@ const stripe = require("./Routes/stripe");
 const app = express();
 
 app.use(express.json());
-app.use(
-  cors({
-    credentials: true,
-    origin: "http://localhost:5174",
-    // origin: "https://fiveteen-studios.onrender.com",
-  })
-);
+// app.use(
+//   cors({
+//     credentials: true,
+//     origin: "http://localhost:5174",
+//     // origin: "https://fiveteen-studios.onrender.com",
+//   })
+// );
 
 // app.use("api/stripe", stripe);
 app.use("api/create-checkout-session", stripe);
