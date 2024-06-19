@@ -1,0 +1,147 @@
+[
+  {
+    "title": "COZY SZN",
+    "price": 55.0,
+    "image": "/Images/f22.jpeg",
+    "productId": 401,
+    "quantity": 48,
+    "sale": 10000.0,
+    "revenue": 5000.0,
+    "status": "Available"
+  },
+  {
+    "title": "FREEDOM (LIMITED EDITION)",
+    "price": 42.0,
+    "image": "/Images/f34.jpeg",
+    "productId": 402,
+    "quantity": 480,
+    "sale": 9000.0,
+    "revenue": 4500.0,
+    "status": "Available"
+  },
+  {
+    "title": "SLPLS NIGHTS",
+    "price": 25.0,
+    "image": "/Images/f3.jpeg",
+    "productId": 403,
+    "quantity": 40,
+    "sale": 10000.0,
+    "revenue": 4500.0,
+    "status": "Available"
+  },
+
+  {
+    "title": "COZY SZN",
+    "price": 55.0,
+    "image": "/Images/f7.jpeg",
+    "productId": 404,
+    "quantity": 30,
+    "sale": 9000.0,
+    "revenue": 9000.0,
+    "status": "Not Available"
+  },
+  {
+    "title": "FVT CLASSIC",
+    "price": 28.0,
+    "image": "/Images/f9.jpeg",
+    "productId": 405,
+    "quantity": 20,
+    "sale": 4500.0,
+    "revenue": 4500.0,
+    "status": "Not Available"
+  },
+  {
+    "title": "PSE SHORTS",
+    "price": 30.0,
+    "image": "/Images/f39.jpeg",
+    "productId": 406,
+    "quantity": 40,
+    "sale": 9000.0,
+    "revenue": 5500.0,
+    "status": "Available"
+  },
+  {
+    "title": "PALMS BLANC",
+    "price": 38.0,
+    "image": "/Images/f48.jpeg",
+    "productId": 407,
+    "quantity": 48,
+    "sale": 10000.0,
+    "revenue": 5000.0,
+    "status": "Available"
+  },
+
+  {
+    "title": "XV PALMS",
+    "price": 30.0,
+    "image": "/Images/f43.jpeg",
+    "productId": 408,
+    "quantity": 32,
+    "sale": 7000.0,
+    "revenue": 7000.0,
+    "status": "Not Available"
+  },
+  {
+    "title": "XVarsity",
+    "price": 80.0,
+    "image": "/Images/f42.jpeg",
+    "productId": 409,
+    "quantity": 32,
+    "sale": 7000.0,
+    "revenue": 7000.0,
+    "status": "Not Available"
+  },
+  {
+    "title": "XV SWEATPANTS",
+    "price": 48.0,
+    "image": "/Images/f41.jpeg",
+    "productId": 410,
+    "quantity": 30,
+    "sale": 7000.0,
+    "revenue": 6000.0,
+    "status": "Available"
+  },
+  {
+    "title": "TERRA ORRANGE",
+    "price": 38.0,
+    "image": "/Images/f44.jpeg",
+    "productId": 411,
+    "quantity": 32,
+    "sale": 7500.0,
+    "revenue": 7500.0,
+    "status": "Not Available"
+  },
+
+  {
+    "title": "SAC A DOS",
+    "price": 64.0,
+    "image": "/Images/f45.jpeg",
+    "productId": 412,
+    "quantity": 15,
+    "sale": 10000.0,
+    "revenue": 3800.0,
+    "status": "Available"
+  },
+
+  {
+    "title": "XMILEY TOTE",
+    "price": 28.0,
+    "soldOut": "Sold Out",
+    "image": "/Images/f46.jpeg",
+    "productId": 413,
+    "quantity": 50,
+    "sale": 5000.0,
+    "revenue": 5000.0,
+    "status": "Not Available"
+  },
+  {
+    "title": "PSE SHORTS MINI",
+    "price": 30.0,
+    "image": "/Images/f47.jpeg",
+    "productId": 414,
+    "quantity": 25,
+    "sale": 4000.0,
+    "revenue": 3500.0,
+    "status": "Available"
+  }
+]

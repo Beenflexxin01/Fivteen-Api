@@ -7,7 +7,8 @@ const Arrivals = require("../models/arrivalModel");
 const Features = require("../models/featureProductModel");
 const AllFeatures = require("../models/allFeatureModel");
 const SummerCollection = require("../models/summerCollectionModel");
-
+const ProductOverview = require("../models/ProductOverviewModel");
+const Orders = require("../models/OrderModel");
 dotenv.config({ path: "./server/config.env" });
 const DB = process.env.DATABASE.replace(
   "<password>",
@@ -39,6 +40,12 @@ const summerCollection = JSON.parse(
   fs.readFileSync(`${__dirname}/summerCollections.json`, `utf-8`)
 );
 
+const productOverview = JSON.parse(
+  fs.readFileSync(`${__dirname}/ProductOverview.json`, "utf-8")
+);
+
+const orders = JSON.parse(fs.readFileSync(`${__dirname}/Orders.json`, "utf-8"));
+
 const importData = async function () {
   try {
     await Products.create(products);
@@ -47,11 +54,11 @@ const importData = async function () {
     await Features.create(features);
     await AllFeatures.create(allFeatures);
     await SummerCollection.create(summerCollection);
+    await ProductOverview.create(productOverview);
+    await Orders.create(orders);
     console.log("Data successfully imported 😀😎!!!");
   } catch (err) {
-    console.log(
-      "An Error occured while importing data! Kindly connect to your internet."
-    );
+    console.log(err);
   }
   process.exit(1);
 };
@@ -64,11 +71,11 @@ const deleteData = async function () {
     await Features.deleteMany();
     await AllFeatures.deleteMany();
     await SummerCollection.deleteMany();
+    await ProductOverview.deleteMany();
+    await Orders.deleteMany();
     console.log("Data successfully deleted ❌🦀!!!");
   } catch (err) {
-    console.log(
-      "An Error occured while deleting data! Kindly connect to your internet."
-    );
+    console.log(err.message);
   }
   process.exit(1);
 };
